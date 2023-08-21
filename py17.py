@@ -1,0 +1,9 @@
+c1=float(input())
+c2=float(input())
+c3=float(input())
+ca=float(input())
+p=(c1+c2+c3)/3
+if(p>ca):
+    print(True)
+else:
+    print(False)
